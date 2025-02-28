@@ -1,0 +1,15 @@
+[theme]
+base = "dark"
+primaryColor = "#1ee2e7"
+secondaryBackgroundColor = "#222"
+textColor = "#ffffff"
+backgroundColor = "#333333"
+
+[server]
+headless = true
+enableCORS = false
+port = 8501
+
+[browser]
+# Custom CSS path
+serverAddress = "localhost"
