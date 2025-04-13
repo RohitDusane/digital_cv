@@ -15,12 +15,12 @@ The app uses the following libraries:
 The project is structured as follows:
 
 Digital-CV/
-│
-├── app.py          # Main application script (Streamlit app)
-├── style/          # Folder containing custom CSS for styling
-│   └── style.css   # Custom CSS file for styling the app
-└── images/         # Folder containing images to be used in the CV
-    └── profile.jpg # Profile image (can be replaced with your own)
+│  
+├── app.py                    # Main application script (Streamlit app)  
+├── style/                    # Folder containing custom CSS for styling    
+│   └── style.css             # Custom CSS file for styling the app    
+└── images/                   # Folder containing images to be used in the CV  
+    └── profile.jpg           # Profile image (can be replaced with your own)
 
 
 
